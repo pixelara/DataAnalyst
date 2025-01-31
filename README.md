@@ -1,2 +1,3 @@
 # DataAnalyst
-Arch the Analyst
+1. data cleaning in MySQL.  
+File used layoffs.csv.
